@@ -10,7 +10,7 @@ if (navigator.serviceWorker) {
     navigator.serviceWorker.register(swLocation );
 }
 
-// Referencias de jQueryss
+// Referencias de jQuerys
 
 var titulo      = $('#titulo');
 var nuevoBtn    = $('#nuevo-btn');
